@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "830023804158",
+    "firebase_url": "https://androidmapaslrff.firebaseio.com",
+    "project_id": "androidmapaslrff",
+    "storage_bucket": "androidmapaslrff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830023804158:android:11ad9d63ce8cb667",
+        "android_client_info": {
+          "package_name": "com.example.databasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830023804158-026k0e3tuene8sglvhqednq80n34fc1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh1P_su37c-6oFGriQ2Jk45066b19OuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830023804158:android:e971206a5d60dc4d",
+        "android_client_info": {
+          "package_name": "com.example.luis.notificacionproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830023804158-026k0e3tuene8sglvhqednq80n34fc1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh1P_su37c-6oFGriQ2Jk45066b19OuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830023804158:android:43f8cf46cfa65127",
+        "android_client_info": {
+          "package_name": "com.example.luis.proyectotaller2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830023804158-026k0e3tuene8sglvhqednq80n34fc1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNh1P_su37c-6oFGriQ2Jk45066b19OuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
